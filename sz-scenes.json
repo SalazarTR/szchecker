@@ -1,0 +1,15 @@
+[
+  {
+    "version": "1.0.0",
+    "changelog": [
+      "İlk sürüm yayınlandı."
+    ],
+    "updateFiles": [
+      "client/",
+      "server/",
+      "shared/",
+      "config.lua",
+      "fxmanifest.lua"
+    ]
+  }
+]
