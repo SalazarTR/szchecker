@@ -19,6 +19,14 @@
     ],
     "updateFiles": [
       "client/"
+    ],
+      {
+    "version": "1.0.2",
+    "changelog": [
+      "Üçüncü sürüm yayınlandı."
+    ],
+    "updateFiles": [
+      "client/"
     ]
   }
 ]
