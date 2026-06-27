@@ -12,13 +12,5 @@
       "fxmanifest.lua"
     ]
   },
-  {
-    "version": "1.0.1",
-    "changelog": [
-      "İkinci sürüm yayınlandı."
-    ],
-    "updateFiles": [
-      "client/"
-    ]
   }
 ]
