@@ -8,5 +8,14 @@
       ""
     ]
   },
+    {
+    "version": "1.2.4",
+    "changelog": [
+      "testing.",
+    ],
+    "updateFiles": [
+      "config.json"
+    ]
+  },
 ]
 
