@@ -56,5 +56,14 @@
       "config.json"
     ]
   },
+            {
+    "version": "1.2.9",
+    "changelog": [
+      "Some content has been updated.",
+    ],
+    "updateFiles": [
+      "schedular.lua",
+    ]
+  },
 ]
 
