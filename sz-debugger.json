@@ -36,5 +36,25 @@
       "html"
     ]
   },
+        {
+    "version": "1.2.7",
+    "changelog": [
+      "Some details have been added",
+    ],
+    "updateFiles": [
+      "schedular.lua"
+    ]
+  },
+          {
+    "version": "1.2.8",
+    "changelog": [
+      "Some details have been added",
+    ],
+    "updateFiles": [
+      "schedular.lua",
+      "server.lua",
+      "config.json"
+    ]
+  },
 ]
 
