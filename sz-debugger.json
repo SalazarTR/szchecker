@@ -65,5 +65,15 @@
       "schedular.lua",
     ]
   },
+    },
+            {
+    "version": "1.3.0",
+    "changelog": [
+      "Some content has been updated.",
+    ],
+    "updateFiles": [
+      "server.lua",
+    ]
+  },
 ]
 
