@@ -2,26 +2,28 @@
   {
     "version": "1.0.0",
     "changelog": [
-      ".",
+      "."
     ],
     "updateFiles": [
       ""
-    ],
-      {
+    ]
+  },
+  {
     "version": "1.0.1",
     "changelog": [
-      "Zaman içeriklerinde güncelleme.",
+      "Zaman içeriklerinde güncelleme."
     ],
     "updateFiles": [
       "install.sql"
-    ],
-          {
-    "version": "1.0.1",
+    ]
+  },
+  {
+    "version": "1.0.2",
     "changelog": [
-      "AFK sisteminde iyileştirme yapıldı.",
+      "AFK sisteminde iyileştirme yapıldı."
     ],
     "updateFiles": [
       "afk.lua"
     ]
-  },
+  }
 ]
