@@ -6,6 +6,14 @@
     ],
     "updateFiles": [
       ""
+    ],
+      {
+    "version": "1.0.1",
+    "changelog": [
+      "Zaman içeriklerinde güncelleme.",
+    ],
+    "updateFiles": [
+      "install.sql"
     ]
   }
 ]
