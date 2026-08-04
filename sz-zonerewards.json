@@ -14,7 +14,7 @@
       "Zaman içeriklerinde güncelleme."
     ],
     "updateFiles": [
-      "install.sql"
+      "zonerewards.sql"
     ]
   },
   {
@@ -24,6 +24,15 @@
     ],
     "updateFiles": [
       "afk.lua"
+    ]
+  },
+    {
+    "version": "1.0.3",
+    "changelog": [
+      "İstatistik detaylandırmasında iyileştirme yapıldı."
+    ],
+    "updateFiles": [
+      "server.lua"
     ]
   }
 ]
