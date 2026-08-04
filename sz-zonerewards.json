@@ -34,5 +34,17 @@
     "updateFiles": [
       "server.lua"
     ]
+  },
+      {
+    "version": "1.0.4",
+    "changelog": [
+      "Kullanıcıya Bildirim(notify) gönderimlerini config üzerinden global olarak aç,kapat eklendi",
+      "ox_lib gibi içeriklere bildirim(notify) export ve desteği eklendi. Detaylar config üzerinde",
+      "NUI yi açmak için kullanılan /szone komutunu değiştirilebilmesi için özelleştirme eklendi. Detaylar config üzerinde.",
+    ],
+    "updateFiles": [
+      "server.lua",
+      "config.lua"
+    ]
   }
 ]
