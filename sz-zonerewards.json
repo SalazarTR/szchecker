@@ -45,6 +45,14 @@
     "updateFiles": [
       "server.lua",
       "config.lua"
+    ],
+              {
+    "version": "1.0.5",
+    "changelog": [
+      "Genel iyileştirme sağlandı."
+    ],
+    "updateFiles": [
+     "ALL Files",
     ]
   }
 ]
