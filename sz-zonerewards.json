@@ -55,5 +55,17 @@
     "updateFiles": [
       "ALL Files"
     ]
+  },
+    {
+    "version": "1.0.6",
+    "changelog": [
+      "Server taraflı iyileştirmeler ve ox_lib için export pozisyon ayarlama eklendi.."
+    ],
+    "updateFiles": [
+      "server.lua",
+      "config.lua",
+      "afk.lua",
+      
+    ]
   }
 ]
