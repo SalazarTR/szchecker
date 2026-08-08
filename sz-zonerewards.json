@@ -11,7 +11,7 @@
   {
     "version": "1.0.1",
     "changelog": [
-      "Zaman içeriklerinde güncelleme."
+      "Updated time-related content."
     ],
     "updateFiles": [
       "zonerewards.sql"
@@ -20,7 +20,7 @@
   {
     "version": "1.0.2",
     "changelog": [
-      "AFK sisteminde iyileştirme yapıldı."
+      "Improvements have been made to the AFK system."
     ],
     "updateFiles": [
       "afk.lua"
@@ -29,7 +29,7 @@
   {
     "version": "1.0.3",
     "changelog": [
-      "İstatistik detaylandırmasında iyileştirme yapıldı."
+      "Improvements have been made to the statistics details."
     ],
     "updateFiles": [
       "server.lua"
@@ -38,9 +38,9 @@
   {
     "version": "1.0.4",
     "changelog": [
-      "Kullanıcıya Bildirim(notify) gönderimlerini config üzerinden global olarak aç,kapat eklendi",
-      "ox_lib gibi içeriklere bildirim(notify) export ve desteği eklendi. Detaylar config üzerinde",
-      "NUI yi açmak için kullanılan /szone komutunu değiştirilebilmesi için özelleştirme eklendi. Detaylar config üzerinde."
+      "Added a global configuration option to enable or disable user notifications (notify).",
+      "Added notification (notify) export support for resources such as ox_lib. See the config for details.",
+      "Added customization for changing the /szone command used to open the NUI. See the config for details."
     ],
     "updateFiles": [
       "server.lua",
@@ -50,22 +50,32 @@
   {
     "version": "1.0.5",
     "changelog": [
-      "Genel iyileştirme sağlandı."
+      "General improvements have been made."
     ],
     "updateFiles": [
       "ALL Files"
     ]
   },
-    {
+  {
     "version": "1.0.6",
     "changelog": [
-      "Server taraflı iyileştirmeler ve ox_lib için export pozisyon ayarlama eklendi.."
+      "Server-side improvements have been made, and an export position setting for ox_lib has been added."
     ],
     "updateFiles": [
       "server.lua",
       "config.lua",
-      "afk.lua",
-      
+      "afk.lua"
+    ]
+  },
+  {
+    "version": "1.0.7",
+    "changelog": [
+      "Improvements have been made to the AFK system. A captcha system has been added. If the user fails the captcha verification, the time counter will stop.",
+      "Added the /szonefix command to resolve cases where the NUI screen may remain open. The command can be customized through the config."
+    ],
+    "updateFiles": [
+      "config.lua",
+      "afk.lua"
     ]
   }
 ]
