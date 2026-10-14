@@ -76,6 +76,14 @@
     "updateFiles": [
       "config.lua",
       "afk.lua"
+    ],
+      {
+    "version": "1.0.8",
+    "changelog": [
+      "The entire design has been changed."
+    ],
+    "updateFiles": [
+      "/html"
     ]
   }
 ]
