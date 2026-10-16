@@ -86,5 +86,53 @@
     "updateFiles": [
       "/html"
     ]
+  },
+  {
+    "version": "1.0.9",
+    "changelog": [
+      "General improvements and bug fixes."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "changelog": [
+      "Improved compatibility with older inventory systems.",
+      "Added Turkish and English language support."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "changelog": [
+      "Fixed item rewards not being given on some servers."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "changelog": [
+      "Improved compatibility with different QBCore versions."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.1.3",
+    "changelog": [
+      "Item rewards that cannot be delivered are no longer lost; they are kept until they can be given.",
+      "Added a debug mode for easier troubleshooting.",
+      "Improved vehicle reward compatibility."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
   }
 ]
