@@ -52,5 +52,17 @@
       "config.lua",
       "fxmanifest.lua"
     ]
+  },
+  {
+    "version": "1.0.6",
+    "changelog": [
+      "Durations can now be set in seconds, so minute-based setups are easy to configure."
+    ],
+    "updateFiles": [
+      "config.lua",
+      "server/config.lua",
+      "server/venues.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
