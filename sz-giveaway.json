@@ -1,0 +1,30 @@
+[
+  {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release."
+    ],
+    "updateFiles": []
+  },
+  {
+    "version": "1.0.1",
+    "changelog": [
+      "The script has been renamed from sz-cekilis to sz-giveaway.",
+      "Removed the whitelist-only option.",
+      "Fixed vehicle rewards not being given on some servers."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "changelog": [
+      "Weapon and item rewards can now be added by typing their exact name.",
+      "Improved vehicle reward compatibility."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  }
+]
