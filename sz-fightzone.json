@@ -2,8 +2,55 @@
   {
     "version": "1.0.0",
     "changelog": [
-      ""
+      "Initial release."
     ],
     "updateFiles": []
+  },
+  {
+    "version": "1.0.1",
+    "changelog": [
+      "Fixed an issue where some logs were not saved."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "changelog": [
+      "General improvements and bug fixes."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "changelog": [
+      "General improvements and bug fixes."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.0.4",
+    "changelog": [
+      "General improvements and bug fixes."
+    ],
+    "updateFiles": [
+      "All files"
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "changelog": [
+      "Zone markers now disappear once a venue has been captured."
+    ],
+    "updateFiles": [
+      "client/main.lua",
+      "config.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
