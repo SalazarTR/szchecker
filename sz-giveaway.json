@@ -26,5 +26,18 @@
     "updateFiles": [
       "All files"
     ]
+  },
+  {
+    "version": "1.0.3",
+    "changelog": [
+      "Fixed item rewards not being given on some servers.",
+      "Vehicle rewards now also give the vehicle key."
+    ],
+    "updateFiles": [
+      "server/main.lua",
+      "server/bridge.lua",
+      "config.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
