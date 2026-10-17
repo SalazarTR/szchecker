@@ -64,5 +64,15 @@
       "server/venues.lua",
       "fxmanifest.lua"
     ]
+  },
+  {
+    "version": "1.0.7",
+    "changelog": [
+      "Added support for more target systems."
+    ],
+    "updateFiles": [
+      "client/main.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
