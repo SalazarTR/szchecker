@@ -74,5 +74,15 @@
       "client/main.lua",
       "fxmanifest.lua"
     ]
+  },
+  {
+    "version": "1.0.8",
+    "changelog": [
+      "Fixed the venue NPC respawning repeatedly and changing appearance on some servers."
+    ],
+    "updateFiles": [
+      "client/main.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
