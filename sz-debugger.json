@@ -83,5 +83,23 @@
       "server.lua",
       "client.lua"
     ]
+  },
+  {
+    "version": "1.3.2",
+    "changelog": [
+      "The entire panel has been redesigned to match the look of other Salazar Store scripts.",
+      "New side menu with grouped sections and live counters.",
+      "New statistic cards and redesigned charts.",
+      "Logs are now grouped by day for easier reading.",
+      "Details now open in a side panel instead of a separate window.",
+      "Notifications have a new look and no longer pile up on the screen.",
+      "The panel now uses a single dark theme.",
+      "Fixed the confirmation window opening behind the details window when deleting logs.",
+      "Fixed the lock icon not showing when the script is turned off."
+    ],
+    "updateFiles": [
+      "html",
+      "fxmanifest.lua"
+    ]
   }
 ]
