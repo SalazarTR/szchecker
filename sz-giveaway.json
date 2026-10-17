@@ -50,5 +50,15 @@
       "server/main.lua",
       "fxmanifest.lua"
     ]
+  },
+  {
+    "version": "1.0.5",
+    "changelog": [
+      "Improved vehicle reward compatibility with more garage systems."
+    ],
+    "updateFiles": [
+      "server/main.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
