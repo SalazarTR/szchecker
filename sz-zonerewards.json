@@ -134,5 +134,15 @@
     "updateFiles": [
       "All files"
     ]
+  },
+  {
+    "version": "1.1.4",
+    "changelog": [
+      "Fixed item rewards not being given on some QBCore servers while money rewards worked."
+    ],
+    "updateFiles": [
+      "bridge/inventory.lua",
+      "fxmanifest.lua"
+    ]
   }
 ]
